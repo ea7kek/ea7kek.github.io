@@ -23,9 +23,9 @@ description: Web personal sobre radioafici√≥n y otras hierbas
 
 # List of links in the navigation bar
 navbar-links:
-  Sobre MÌ: "aboutme"
+  About Me: "aboutme"
   Red Zello: "https://redpnr.github.io"
-  Enlaces:
+  Resources:
     - Placeholder: "#"
     - Placeholder: "#"
     - Placeholder: "#"
