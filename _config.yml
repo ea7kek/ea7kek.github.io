@@ -23,10 +23,9 @@ description: Web personal sobre radioafición y otras hierbas
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Red Zello: "https://redpnr.github.io"
-  Resources:
-    - Placeholder: "#"
+  Sobre Mí: "aboutme"
+  Enlaces:
+    - Red Zello: "Red Zello: "https://redpnr.github.io"
     - Placeholder: "#"
     - Placeholder: "#"
   Author's home: "https://omik.github.io"
@@ -100,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "EA7KEK Web"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "EA7KEK Web"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
