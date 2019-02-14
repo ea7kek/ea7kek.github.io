@@ -6,8 +6,6 @@ tags: [random-madness]
 comments: true
 ---
 
-# Primera entrada!
-
 En estas fechas se cumple un año desde que superé las pruebas para la obtención de la licencia de radioaficionado en España. Un año desde que tengo mis letras, **EA7KEK**.
 
 Por ello he decidido montar esta pequeña web para compartir pedacitos de esta afición con todo el que tenga interés por el tema.
