@@ -39,7 +39,7 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - CB Talk
 
 
-### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
+#### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
 
 
 
