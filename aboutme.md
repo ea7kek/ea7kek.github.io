@@ -6,16 +6,16 @@ subtitle: dicen que hablar de uno mismo esta feo...
 
 Mi nombre es Jesús Muñoz y llevo ligado al mundo de la tecnología y la radio más años que los que me gustaría reconocer.
 
-### mi historia
+## mi historia
 
 Nacido en Jaén. A caballo (*en autobús más bien*) entre Jaén y Granada. Técnico de sonido y vídeo, desarrollador, amante de la radio y el salmorejo... 
 
 Para más información siempre puedes visitar [omik.github.io](https://omik.github.io) o dejarme un correo en [ea7kek@gmail.com](mailto:ea7kek@gmail.com)
 
-### mi equipo de radio
+## mi equipo de radio
 <br/>
 
-#### radio tradicional
+### radio tradicional
 <br/>
 
 > si no contamos la emisora de 27mhz que está desconectada, todo mi equipo es para bandas VHF y UHF 
@@ -28,7 +28,7 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - Midland Alan 44 (desconectada)
 
 
-#### radio vía Internet (network radio)
+### radio vía Internet (network radio)
 <br/>
 
 > usando varios dispositivos Android, estoy muy activo por las siguientes aplicaciones
@@ -38,6 +38,8 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - Echolink
 - CB Talk
 
+
+<br/>
 <br/>
 ### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
 
