@@ -1,16 +1,41 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title:Sobre Mí
+subtitle: dicen que hablar de uno mismo esta feo...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Mi nombre es Jesús Muñoz y llevo ligado al mundo de la tecnología y la radio más años que los que me gustaría reconocer.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### mi historia
 
-What else do you need?
+Nacido en Jaén. A caballo (*en autobús más bien*) entre Jaén y Granada. Técnico de sonido y vídeo, desarrollador, amante de la radio y el salmorejo... 
 
-### my history
+Para más información siempre puedes visitar [omik.github.io](https://omik.github.io) o dejarme un correo en [ea7kek@gmail.com](mailto:ea7kek@gmail.com)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### mi equipo de radio
+
+#### radio tradicional
+
+> si no contamos la emisora de 27mhz que está desconectada, todo mi equipo es para bandas VHF y UHF 
+
+- Dynascan DB-M14
+- Baofeng UV-5R
+- Baofeng UV-5RC
+- Midland BR01
+- WLN KD C1
+- Midland Alan 44 (desconectada)
+
+#### radio vía Internet (network radio)
+
+> usando varios dispositivos Android, estoy muy activo por las siguientes aplicaciones
+
+- Zello
+- Peanut
+- Echolink
+- CB Talk
+
+## Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
+
+
+
+![EA7KEK Logo](https://i.imgur.com/eWaPr9C.png)
