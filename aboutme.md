@@ -14,7 +14,9 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 
 ### mi equipo de radio
 
+
 #### radio tradicional
+
 
 > si no contamos la emisora de 27mhz que está desconectada, todo mi equipo es para bandas VHF y UHF 
 
@@ -25,7 +27,9 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - WLN KD C1
 - Midland Alan 44 (desconectada)
 
+
 #### radio vía Internet (network radio)
+
 
 > usando varios dispositivos Android, estoy muy activo por las siguientes aplicaciones
 
@@ -34,7 +38,7 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - Echolink
 - CB Talk
 
-## Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
+### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y en la Red PNR de Zello en el  [Canal 01](https://zello.com/channels/k/gmxT0).
 
 
 
