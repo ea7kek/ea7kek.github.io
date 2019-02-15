@@ -44,3 +44,5 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 
 
 ![EA7KEK Logo](https://i.imgur.com/eWaPr9C.png)
+![EA7KEK Logo](https://i.imgur.com/ZwOkLi8.png)
+
