@@ -52,7 +52,7 @@ Para mí las dos más importantes son:
 
 Qué desventajas tiene una emisora de Radio Vía Internet?
  - Depender de tener acceso a internet y aunque hoy en día los mapas de cobertura de las redes 3/4G son cada vez mas extensos, habrá zonas donde la conexión no sea posible.
- - Es una tecnología que evoluciona muy rápidamente, por ejemplo, se habla ya de las futuras redes 5G y del "apagón" paulatino de las redes 2 y 3G empezando en 2020 y queriendo terminar en 2026. Por lo que hay que estar muy "al loro" y si nos decantamos por una emisora móvil o portatil específica, tener muy en cuenta este dato.
+ - Es una tecnología que evoluciona muy rápidamente. Por ejemplo, ya se habla de las futuras redes 5G y del "apagón" paulatino de las redes 2 y 3G empezando en 2020 y queriendo terminar en 2026. Por lo que hay que estar muy "al loro" y si nos decantamos por una emisora móvil o portatil específica, tener muy en cuenta este dato.
 
 Enlaces a referencias hechas en el artículo:
 
