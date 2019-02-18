@@ -48,7 +48,7 @@ En realidad no son otra cosa que unos "*teléfonos móviles*" creados específic
 
 Para mí las más importantes son:
  - No necesitar una instalación de antena.
- - No hay límite geográfico. Es lo mismo comunicarse con una estación de al lado o con una que esté al otro extremo del mundo.
+ - No hay límite geográfico. Es lo mismo comunicarse con una estación de al lado que con una que esté al otro extremo del mundo.
  - Entre las conexiones a internet en casa, redes públicas WiFi y nuestros smartphones es muy difícil quedarse "a oscuras". *Aunque no imposible, como indico en las desventajas*.
 
 ### Qué desventajas tiene una emisora de Radio Vía Internet?
