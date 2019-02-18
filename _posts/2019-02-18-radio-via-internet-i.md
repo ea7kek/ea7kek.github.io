@@ -55,6 +55,7 @@ Qué desventajas tiene una emisora de Radio Vía Internet?
  - Es una tecnología que evoluciona muy rápidamente, por ejemplo, se habla ya de las futuras redes 5G y del "apagón" paulatino de las redes 2 y 3G empezando en 2020 y queriendo terminar en 2026. Por lo que hay que estar muy "al loro" y si nos decantamos por una emisora móvil o portatil específica, tener muy en cuenta este dato.
 
 Enlaces a referencias hechas en el artículo:
+
 [Mapa de cobertura de Red Movistar](https://www.movistar.es/particulares/coberturas/movil/4G?_ga=1.246297668.1772755690.1486631456)
 
 [Mapa de cobertura de Red Vodafone](http://www.vodafone.es/VODMAP/init_Map.do?idioma=ES&page=coverages&2&omv=L4)
