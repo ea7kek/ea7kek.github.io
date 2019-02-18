@@ -17,7 +17,7 @@ baseurl: ""
 title: EA7KEK
 
 # Short description of your site
-description: Web personal sobre radioafición y otras hierbas
+description: Mis notas sobre radioafición y otros cacharreos
 
 # --- Navigation bar options --- #
 
@@ -124,7 +124,7 @@ share-links-active:
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+disqus: "ea7kek-blog"
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
