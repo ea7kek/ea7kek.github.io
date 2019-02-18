@@ -7,7 +7,7 @@ comments: true
 ---
 
 > Comienzo una serie de artículos en los que voy a intentar explicar
-> distintas formas que se pueden usar para hacer Radio Vía Internet.
+> distintas formas de hacer Radio Vía Internet.
 > 
 > Quiero hacer un recorrido partiendo del mínimo gasto posible hasta llegar a una
 > instalación más compleja (*económicamente hablando sobre todo*) que use
