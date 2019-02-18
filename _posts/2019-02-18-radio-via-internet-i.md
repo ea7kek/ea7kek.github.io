@@ -56,9 +56,13 @@ Qué desventajas tiene una emisora de Radio Vía Internet?
 
 Enlaces a referencias hechas en el artículo:
 [Mapa de cobertura de Red Movistar](https://www.movistar.es/particulares/coberturas/movil/4G?_ga=1.246297668.1772755690.1486631456)
+
 [Mapa de cobertura de Red Vodafone](http://www.vodafone.es/VODMAP/init_Map.do?idioma=ES&page=coverages&2&omv=L4)
+
 [Mapa de cobertura de Red ORANGE](https://4g.orange.es/#cobertura)
+
 [Mapa de cobertura YOIGO](https://www.yoigo.com/cobertura-movil/)
+
 [El 3G se apagará en 2020 y el 2G en 2025](https://www.adslzone.net/2017/01/30/3g-se-apagara-2020-2g-2025-espana-lo-esperado/)
 
 ![Radio Vía Internet - Teléfono Inrico con PTT](https://i.imgur.com/9pC9QUt.png)
