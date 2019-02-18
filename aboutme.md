@@ -21,6 +21,7 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 > si no contamos la emisora de 27mhz que está desconectada, todo mi equipo es para bandas VHF y UHF 
 
 - Dynascan DB-M14
+- Alinco DJ-180
 - Baofeng UV-5R
 - Baofeng UV-5RC
 - Midland BR01
