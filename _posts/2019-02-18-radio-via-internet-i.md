@@ -19,7 +19,7 @@ comments: true
 
 Si algo ha caracterizado a la radioafición es la búsqueda de nuevas formas de comunicación. 
 
-Se ha recorrido un largo camino desde los tiempos donde primaba la construcción de equipos propios a los de la exploración de nuevas tecnologías digitales. Desde el Packet Radio al DMR pasando por FT8, DStar o Fusion, muchos radioaficionados estamos añadiendo a nuestro "*cinturón de herramientas*" todo lo que el mundo digital puede aportar al hobbie.
+Se ha recorrido un largo camino desde los tiempos donde primaba la construcción de equipos propios a los de la exploración de nuevas tecnologías digitales. Desde el Packet Radio al DMR pasando por DStar o Fusion, muchos radioaficionados estamos añadiendo a nuestro "*cinturón de herramientas*" todo lo que el mundo digital puede aportar al hobbie.
 
 Yendo un poco más allá, gracias a lo sencillo que es hoy en día tener un acceso contínuo a internet ya sea por redes móviles 2/3/4G o Wifi, se nos abre un nuevo abanico de posibilidades para hacer lo que se podría denominar "Radio Vía Internet".
 
