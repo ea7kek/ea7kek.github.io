@@ -13,7 +13,7 @@ comments: true
 > instalación más compleja (*económicamente hablando sobre todo*) que use
 > un equipo base/móvil dedicado.
 > 
->  Para los tutoriales, me voy a centrar en dos aplicaciones, **Zello** y **Peanut**, pero todo lo que se escriba será muy posiblemente compatible con cualquier otra app de *VoIP*.
+>  Para los tutoriales, me voy a centrar en dos aplicaciones, **Zello** y **Peanut**, pero todo lo que se escriba posiblemente sea compatible con cualquier otra app de *VoIP*.
 >   
 >   Para cualquier consulta o comentario en la sección [sobre mí](https://ea7kek.github.io/aboutme/) se pueden ver distintas formas de contactar conmigo.
 
