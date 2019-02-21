@@ -12,4 +12,4 @@ Por ello he decidido montar esta pequeña web para compartir pedacitos de esta a
 
 Como buen geek, me apasiona lo que las nuevas tecnologías pueden aportar a la radioafición. Así que arduinos, raspberry pi’s, radio vía ip, sdr’s o hotspots digitales entre otros, tarde o temprano (más bien temprano) terminarán apareciendo por aquí.
 
-Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y por Zello en la Red **Romeo Víctor India** en el  [Canal 01](https://zello.com/channels/k/gmPbB).
+Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y por Zello en la Red **Romeo Víctor India** en el  [Canal 01](https://zello.com/channels/k/gnnBZ).
