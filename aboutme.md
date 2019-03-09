@@ -42,7 +42,7 @@ Para más información siempre puedes visitar [omik.github.io](https://omik.gith
 - CB Talk
 
 
-#### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y por Zello en la Red Romeo Víctor India en el  [Canal 01](https://zello.com/channels/k/gnnBZ).
+#### Para quien quiera cruzar antenas conmigo, intento estar a la escucha en el R2 de Jaén y por Zello en la Red [Romeo Víctor India](https://romeovictorindia.github.io) en el [Canal 01](https://zello.com/channels/k/gnnBZ).
 
 
 
